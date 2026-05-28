@@ -1,6 +1,6 @@
 # Código desarrollado
 
-Este proyecto fue desarrollado utilizando MySQL para la creación de una base de datos orientada a la administración de una maderería. El código se encuentra almacenado en un repositorio de [GitHub](https://github.com?utm_source=chatgpt.com) para facilitar su revisión y ejecución.
+Este proyecto fue desarrollado utilizando MySQL para la creación de una base de datos orientada a la administración de una maderería. El código se encuentra almacenado en un repositorio de GitHub para facilitar su revisión y ejecución.
 
 ## Herramientas utilizadas
 
